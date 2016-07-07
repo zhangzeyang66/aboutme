@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>张泽阳的个人主页</title>
+    <description>Have some fun!</description>
+    <link>https://zhangzeyang66.github.io/aboutme//aboutme//</link>
+    <atom:link href="https://zhangzeyang66.github.io/aboutme//aboutme//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 07 Jul 2016 11:34:16 +0800</pubDate>
+    <lastBuildDate>Thu, 07 Jul 2016 11:34:16 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+  </channel>
+</rss>

@@ -1,0 +1,10 @@
+# Site settings
+title: 张泽阳的个人主页
+email: zhangzeyang66@126.com
+description: Have some fun!
+baseurl: "/aboutme/" # the subpath of your site, e.g. /blog/
+url: "https://zhangzeyang66.github.io/aboutme/" # the base hostname & protocol for your site
+github_username:  zhangzeyang66
+
+# Build settings
+markdown: kramdown
